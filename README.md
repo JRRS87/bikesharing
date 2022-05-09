@@ -1,6 +1,6 @@
 # bikesharing
 
-## Purpose
+## Overview
 
 The goal of the study was to leverage data from the Citi Bike programme in New York City to determine whether 
 it could be replicated in De Moines, Iowa. To finish this research, I cleaned up the data using Python's pandas
@@ -21,6 +21,7 @@ How long do users ride their bikes?
 During the month of August in 2019, this graphic depicts the length of each bike trip. It reveals that cyclists like to 
 cycle for 2 to 15 minutes on average.
 
+## Results
 checkout_time_for_users
 
 Who uses the bikes?
@@ -46,7 +47,8 @@ evenly distributed throughout the day. trips_by_weekday_per_hour
 
 To add to these findings, this image demonstrates that similar patterns exist when genders are separated. user_trips_by_gender
 
-Summary
+## Summary
+
 These are the most important lessons from the above results for establishing a successful citi bike programme in De Moines.
 
 Men should be targeted in advertising because they are the primary user group.
